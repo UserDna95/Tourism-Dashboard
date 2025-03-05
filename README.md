@@ -32,14 +32,14 @@ Using the following link, import population data for 2011 and 2025 to compare th
 
 https://www.indiacensus.net/states/telangana 
 
-Key Insights:
-- Focus on districts in Telangana with lower tourist rates, like Jayashankar Bhoopalpally, Mahbubnagar, Nirmal, Adilabad,  Medak, and Karimnagar, to balance overall revenue in the state. 
-- Balance tourism in rural and urban areas. More focus on rural areas. 
-- Implement festivals and events in months with lower tourism rates. 
-
 >Page 1, called "Overview" looks at the district numbers in terms of total visitors. 
 
 >Page 2 called "Suggestions" provides an analysis of data and key insights to improve tourism in Telangana. 
 
 ![Screen Shot 2025-03-05 at 8 09 38 PM](https://github.com/UserDna95/Tourism-Dashboard/blob/main/2025-03-04%20(10).png)
 ![Screen Shot 2025-03-05 at 8 09 38 PM](https://github.com/UserDna95/Tourism-Dashboard/blob/main/2025-03-04%20(11).png)
+
+Key Insights:
+- Focus on districts in Telangana with lower tourist rates, like Jayashankar Bhoopalpally, Mahbubnagar, Nirmal, Adilabad,  Medak, and Karimnagar, to balance overall revenue in the state. 
+- Balance tourism in rural and urban areas. More focus on rural areas. 
+- Implement festivals and events in months with lower tourism rates. 
