@@ -41,5 +41,5 @@ https://www.indiacensus.net/states/telangana
 
 Key Insights:
 - Focus on districts in Telangana with lower tourist rates, like Jayashankar Bhoopalpally, Mahbubnagar, Nirmal, Adilabad,  Medak, and Karimnagar, to balance overall revenue in the state. 
-- Balance tourism in rural and urban areas. More focus on rural areas. 
+- Balance tourism in rural and urban areas, with more focus on rural areas. 
 - Implement festivals and events in months with lower tourism rates. 
